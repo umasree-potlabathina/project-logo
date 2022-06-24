@@ -6,7 +6,9 @@ body {
 }
 
 div {
-    width: 50vw;
-    height: 50vh;
     margin: 1rem;
+}
+
+img {
+    width: 700px;
 }
